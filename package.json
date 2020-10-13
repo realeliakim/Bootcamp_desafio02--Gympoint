@@ -1,0 +1,8 @@
+{
+  "name": "Bootcamp_desafio02--Gympoint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/realeliakim/Bootcamp_desafio02--Gympoint.git",
+  "author": "<eliakim.aquino@gmail.com>",
+  "license": "MIT"
+}
