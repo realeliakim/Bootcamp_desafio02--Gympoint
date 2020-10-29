@@ -23,6 +23,8 @@ class StudentsController {
       altura,
     });
   }
+
+  async update(req, res) {}
 }
 
 export default new StudentsController();
